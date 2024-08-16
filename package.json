@@ -1,0 +1,8 @@
+{
+  "name": "cryptex",
+  "version": "1.0.0",
+  "description": "encrypted chat",
+  "main": "index.js",
+  "author": "cosby1992 <andersbirkedahl@hotmail.com>",
+  "license": "MIT"
+}
